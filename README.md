@@ -3,4 +3,4 @@ It a android mobile app where it using MAP API and find near by place for exampl
 
 [demo](https://youtu.be/OM4woZqyumQ)
 
-APK file [Download](https://www.dropbox.com/s/dxql2hi7v1tez5g/app-release.apk?dl=0)
+APK file [Download](https://www.dropbox.com/s/y3gwn16tqrwmcwy/app-debug.apk?raw=1)
